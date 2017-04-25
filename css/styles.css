@@ -1,0 +1,103 @@
+body {
+    background-color: #25D7DF;
+}
+
+.section{
+    overflow: hidden;
+}
+
+.floatleft{
+    float: left;
+}
+
+.floatright{
+    float: right;
+}
+
+.text-center{
+    text-align: center;
+}
+
+a:link {
+    color: #25D7DF;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #FF00F7;
+}
+
+a:hover {
+    color: #F0FF00;
+    padding: 5px;
+}
+
+#nav-body{
+    list-style-type: none;
+    text-align: center;
+}
+
+.nav-link{
+    background-color: black;
+    border-radius: 5px;
+    border-style: inset;
+    border-color: yellow;
+    padding:10px 10px 10px 10px;
+    display: inline;
+    margin: 10px;
+    text-decoration: overline;
+}
+
+#banner{
+    background-image: url('../images/banner3.png');
+    background-position: center;
+    background-size: cover;
+}
+
+#sjsharks{
+    color: #03E0FF;
+    text-align: center;
+    line-height: 800px;
+    font-size: 60px;
+}
+
+#hertlgoal{
+    width: 500px;
+    border: solid;
+}
+
+#hertl-text{
+    width: 600px;
+    border: solid;
+    clear: left;
+}
+
+#hertlhead{
+    text-decoration: underline;
+}
+
+#celebration{
+    height: 500px;
+    border: solid;
+}
+
+.para{
+    font-size: 20px;
+}
+
+#info-btn{
+    background-color: #000000;
+    border: 3px double #000000;
+    border-radius: 3px;
+    font-size: 20px;
+}
+
+.socialmedia{
+    text-align: left;
+    padding: 50px;
+}
+
+#copyright{
+    font-size: 20px;
+    text-decoration: underline;
+}
