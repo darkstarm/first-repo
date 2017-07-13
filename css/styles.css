@@ -1,0 +1,299 @@
+/*Start Universal Styles*/
+
+body {
+    background-color: black;
+    margin-left: 42px;
+    margin-right: 42px;
+    font-family: monospace;
+}
+
+.text-center{
+    text-align: center;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+.floatleft{
+    float: left;
+}
+
+.clear-right{
+    clear: right;
+}
+
+h1{
+    text-decoration: underline
+    color: #00ccff;
+}
+
+a:link{
+    color: #00ccff;
+}
+
+a:visited{
+    color: red;
+}
+
+li{
+    color: #00ccff;
+    list-style-type: none;
+}
+
+/*End Universal Styles*/
+
+/*Start Banner*/
+
+#banner-contain{
+    margin-left: 125px;
+}
+
+#banner{
+    width: 1000px;
+}
+
+/*End Banner*/
+
+/*Start Nav*/
+
+#nav-body{
+    list-style-type: none;
+}
+
+.nav-link{
+    display: inline;
+    text-align: center;
+    overflow: hidden;
+    background-color: #333;
+    padding: 10px 0px 10px 0px;
+    border-right: 1px solid #00ccff;
+}
+
+.nav-link:hover{
+    background-color: #fff;
+    color: black;
+    
+}
+
+.link-style{
+    text-decoration: none;
+    padding: 10px;
+}
+
+#logo{
+    float: right;
+}
+
+#nav{
+    width:50%;
+}
+
+/*End Nav*/
+
+/*Start First Section*/
+
+.first-border{
+    border-top: 10px solid white;
+    border-bottom: 10px solid white;
+    border-radius: 10px 10px;
+    margin-bottom: 15px;
+}
+
+#first-para{
+    float: left;
+    color: #00ccff;
+    width: 35%;
+    padding-left: 100px;
+    padding-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#first-image{
+    width: 40%;
+    padding: 30px;
+    border-left: 3px solid #00ccff;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+/*End First Section */
+
+/*Start Footer*/
+
+.footer{
+    margin-top: 20px;
+}
+
+.social-links{
+    text-decoration: none;
+}
+
+.social-links:hover{
+    padding: 15px;
+}
+
+#copyright{
+    color: #00ccff;
+    text-decoration: underline;
+}
+
+/*End Footer*/
+
+/*Start Contact Page*/
+
+#contact{
+    color: #00ccff;
+    text-decoration: underline;
+}
+
+#map{
+    margin-left: 415px;
+    padding: 20px;
+}
+
+/*End Contact Page*/
+
+/*Start About page*/
+
+.third{
+    width: 33%;
+    float: left;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#team-button{
+    clear: left;
+    float: left;
+    background-color: white;
+    padding: 10px;
+    margin: 15px;
+    margin-left: 140px;
+    border: 3px solid #00ccff;
+    border-radius: 10px;
+    background-color: black;
+}
+
+#about-border{
+    border-top: 10px solid white;
+    border-radius: 10px 10px 0px 0px;
+}
+
+#coach-button{
+    clear: left;
+    float: left;
+    background-color: white;
+    padding: 10px;
+    margin: 15px;
+    margin-left: 135px;
+    border: 3px solid #00ccff;
+    border-radius: 10px;
+    background-color: black;
+}
+
+#fan-button{
+    clear: left;
+    float: left;
+    background-color: white;
+    padding: 10px;
+    margin: 15px;
+    margin-left: 140px;
+    border: 3px solid #00ccff;
+    border-radius: 10px;
+    background-color: black;
+}
+
+#about-foot{
+    clear: left;
+    border-top: 10px solid white;
+    border-radius:10px 10px;
+}
+
+#about-social{
+    margin-top: 15px;
+}
+
+/*End About page*/
+
+/*Player page*/
+
+#player-border-top{
+    border-top: 10px solid white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#player-style{
+    color: #00ccff;
+    text-decoration: underline;
+}
+
+.player-image{
+    border: 3px solid #00ccff;
+    width: 20%;
+    border-radius: 20px;
+    margin: 25px;
+}
+
+#burns-image{
+    padding: 20px;
+    margin-left: 65px;
+    
+}
+
+.likes{
+    color: #00ccff;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.list{
+    color: #00ccff;
+    list-style-type: none;
+    padding-left: 30px;
+}
+
+#thorton-image{
+    padding: 20px;
+    margin-left: 65px;
+}
+
+#player1{
+    float: left;
+}
+
+#player2{
+    float: left;
+}
+
+#team{
+    width: 50%;
+    padding: 20px;
+}
+
+#player-footer{
+    border-top: 10px solid white;
+    border-radius:10px 10px;
+}
+
+#done{
+    margin-top: 15px;
+}
+
+.names{
+    color: #00ccff;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#champs{
+    color: #00ccff;
+    text-decoration: underline;
+    text-align: center;
+    clear: left;
+    padding: 20px;
+}
+
+/*end player page*/
